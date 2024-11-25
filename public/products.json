@@ -1,0 +1,189 @@
+{
+    "products": [
+
+      {
+        "product_id": 201,
+        "product_title": "TechPro UltraBook 15",
+        "product_image": "https://i.ibb.co.com/pRxWBvS/pngtree-laptop-icon-png-image-1871608.jpg",
+        "category": "Laptop",
+        "price": 1099.99,
+        "description": "A sleek and powerful ultrabook with high processing speed and exceptional display quality.",
+        "specification": ["15.6 inch FHD display", "Intel Core i7", "16GB RAM", "512GB SSD", "NVIDIA GTX 1650", "Windows 11"],
+        "availability": "In Stoke",
+        "rating": 4.7
+      },
+      {
+        "product_id": 101,
+        "product_title": "TechPro X200",
+        "product_image": "https://i.ibb.co.com/2nzQDKL/34-344566-smartphone-hd-png-download.png",
+        "category": "Smartphone",
+        "price": 699.99,
+        "description": "A high-performance smartphone with an advanced camera system and long-lasting battery.",
+        "specification": ["6.1 inch OLED display", "8GB RAM", "128GB Storage", "4500mAh Battery", "48MP Main Camera", "Android 12"],
+        "availability": "Out of Stoke",
+        "rating": 4.5
+      },
+      {
+        "product_id": 102,
+        "product_title": "MaxTech Infinity Z5",
+        "product_image": "https://i.ibb.co.com/jytPLms/422-4225211-new-mobile-phone-png-transparent-cartoons-smart-phones.jpg",
+        "category": "Smartphone",
+        "price": 899.00,
+        "description": "Flagship smartphone with cutting-edge design, powerful processor, and high-resolution display.",
+        "specification": ["6.7 inch Super AMOLED display", "12GB RAM", "256GB Storage", "5000mAh Battery", "64MP Main Camera", "Android 13"],
+        "availability": "In Stoke",
+        "rating": 4.8
+      },
+      {
+        "product_id": 301,
+        "product_title": "Wireless Earbuds Pro",
+        "product_image": "https://i.ibb.co.com/xJYKPG7/pngtree-some-electronic-gadgets-on-a-wooden-table-image-13184033.png",
+        "category": "Accessories",
+        "price": 129.99,
+        "description": "High-quality wireless earbuds with noise cancellation and long battery life.",
+        "specification": ["Bluetooth 5.2", "Noise Cancellation", "Up to 24 hours playback", "IPX4 water-resistant"],
+        "availability": "In Stoke",
+        "rating": 4.6
+      },
+      
+      
+      {
+        "product_id": 202,
+        "product_title": "MaxTech Gamer X17",
+        "product_image": "https://i.ibb.co.com/m0ft1CM/76d806e10cf34db1a04bf360828dfae4.jpg",
+        "category": "Laptop",
+        "price": 1499.00,
+        "description": "High-performance gaming laptop with advanced graphics and cooling system.",
+        "specification": ["17.3 inch QHD display", "AMD Ryzen 9", "32GB RAM", "1TB SSD", "NVIDIA RTX 3070", "Windows 11"],
+        "availability": "In Stoke",
+        "rating": 4.9
+      },
+      {
+        "product_id": 203,
+        "product_title": "OmegaBook Flex 13",
+        "product_image": "https://i.ibb.co.com/PYMK131/beac0829975849-560cfea74ca9b.jpg",
+        "category": "Laptop",
+        "price": 849.99,
+        "description": "Convertible laptop with touch screen and stylus support, ideal for on-the-go professionals.",
+        "specification": ["13.3 inch FHD touch display", "Intel Core i5", "8GB RAM", "256GB SSD", "Intel Iris Xe", "Windows 10"],
+        "availability": "In Stoke",
+        "rating": 4.4
+      },
+      {
+        "product_id": 103,
+        "product_title": "Omega Flash One",
+        "product_image": "https://i.ibb.co.com/7QgLNHt/phone-smartphone-hand-144060-800x600.jpg",
+        "category": "Smartphone",
+        "price": 499.50,
+        "description": "Affordable smartphone with fast performance and great camera for everyday use.",
+        "specification": ["6.5 inch LCD display", "6GB RAM", "64GB Storage", "4200mAh Battery", "12MP Main Camera", "Android 11"],
+        "availability": "In Stoke",
+        "rating": 4.1
+      },
+      {
+        "product_id": 302,
+        "product_title": "FastCharge Power Bank 20000mAh",
+        "product_image": "https://i.ibb.co.com/RCYJY59/flat-lay-modern-tech-gadgets-including-vr-headset-headphones-smartphone-camera-mouse-14117-787928.jpg",
+        "category": "Accessories",
+        "price": 49.99,
+        "description": "High-capacity power bank with fast charging for multiple devices.",
+        "specification": ["20000mAh", "USB-C and USB-A ports", "Fast Charge 3.0", "LED battery indicator"],
+        "availability": "In Stoke",
+        "rating": 4.5
+      },
+      
+      {
+        "product_id": 402,
+        "product_title": "PulseWave GTR 3",
+        "product_image": "https://i.ibb.co.com/GWXBpC5/smart-watch-series-6-mockup-1332-25541.jpg",
+        "category": "Smartwatch",
+        "price": 179.99,
+        "description": "Stylish smartwatch with essential fitness tracking and customizable watch faces.",
+        "specification": ["1.2 inch OLED display", "Blood Oxygen Monitor", "Sleep Tracking", "Bluetooth 5.0", "Battery life up to 14 days"],
+        "availability": "In Stoke",
+        "rating": 4.4
+      },
+      {
+        "product_id": 403,
+        "product_title": "TechTime Fit Ultra",
+        "product_image": "https://i.ibb.co.com/B4nGTfj/179-1791450-smart-watch-under-100-hd-png-download.jpg",
+        "category": "Smartwatch",
+        "price": 299.99,
+        "description": "Premium smartwatch with ECG, SpO2 monitoring, and voice assistant integration.",
+        "specification": ["1.65 inch Super AMOLED display", "ECG Monitor", "SpO2 Monitor", "Voice Assistant", "Battery life up to 7 days"],
+        "availability": "Out of Stoke",
+        "rating": 4.8
+      },
+      {
+        "product_id": 104,
+        "product_title": "Astra OnePlus T",
+        "product_image": "https://i.ibb.co.com/Hz28GgB/realistic-display-smartphone-with-different-apps-52683-30241.jpg",
+        "category": "Smartphone",
+        "price": 799.99,
+        "description": "A premium smartphone with smooth performance and high-quality build.",
+        "specification": ["6.4 inch AMOLED display", "8GB RAM", "128GB Storage", "4800mAh Battery", "50MP Main Camera", "Android 12"],
+        "availability": "In Stoke",
+        "rating": 4.6
+      },
+      {
+        "product_id": 105,
+        "product_title": "SkyNet ProMax 5G",
+        "product_image": "https://i.ibb.co.com/gmxLXnV/samsung-galaxy-s24-ultra-1887.jpg",
+        "category": "Smartphone",
+        "price": 999.00,
+        "description": "High-end 5G smartphone with advanced AI-powered camera and ultra-fast processing.",
+        "specification": ["6.9 inch OLED display", "16GB RAM", "512GB Storage", "5200mAh Battery", "108MP Main Camera", "Android 13"],
+        "availability": "In Stoke",
+        "rating": 4.9
+      },
+      {
+        "product_id": 303,
+        "product_title": "Universal Laptop Stand",
+        "product_image": "https://i.ibb.co.com/XjRgsj2/9cc1be70c92abf4ab3c1ac707fdaa062.png",
+        "category": "Accessories",
+        "price": 39.99,
+        "description": "Adjustable laptop stand for better ergonomics and cooling.",
+        "specification": ["Aluminum body", "Height adjustable", "Supports up to 17-inch laptops", "Portable and foldable"],
+        "availability": "In Stoke",
+        "rating": 4.3
+      },
+      {
+        "product_id": 204,
+        "product_title": "Nexa ThinkPad Pro",
+        "product_image": "https://i.ibb.co.com/BcL6GGW/8521-png-860.png",
+        "category": "Laptop",
+        "price": 1299.99,
+        "description": "A durable business laptop with top security features and excellent performance.",
+        "specification": ["14 inch FHD display", "Intel Core i7", "16GB RAM", "512GB SSD", "Intel UHD Graphics", "Windows 11 Pro"],
+        "availability": "In Stoke",
+        "rating": 4.6
+      },
+      {
+        "product_id": 401,
+        "product_title": "AeroFit Pro X",
+        "product_image": "https://i.ibb.co.com/nrvMv5n/bafd2a3941861160e1ccb526c37646ec.jpg",
+        "category": "Smartwatch",
+        "price": 249.99,
+        "description": "Advanced smartwatch with fitness tracking, heart rate monitoring, and GPS.",
+        "specification": ["1.4 inch AMOLED display", "Heart Rate Monitor", "GPS", "Water Resistant (5ATM)", "Battery life up to 10 days"],
+        "availability": "In Stoke",
+        "rating": 4.5
+      },
+    
+      {
+        "product_id": 404,
+        "product_title": "FlexWear Lite",
+        "product_image": "https://i.ibb.co.com/7NcfKMm/80ec0fef962597d351b23b4defbad582.jpg",
+        "category": "Smartwatch",
+        "price": 99.99,
+        "description": "Affordable smartwatch with fitness tracking and call notifications.",
+        "specification": ["1.3 inch LCD display", "Pedometer", "Call and SMS notifications", "IP67 Water Resistant", "Battery life up to 5 days"],
+        "availability": "In Stoke",
+        "rating": 4.1
+      }
+     
+
+      
+    ]
+  }
+  
